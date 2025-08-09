@@ -1,0 +1,1 @@
+pyinstaller --onefile -F -i=icon.ico --version-file=version.txt "olds/ask3lads_version.py" --noconsole
