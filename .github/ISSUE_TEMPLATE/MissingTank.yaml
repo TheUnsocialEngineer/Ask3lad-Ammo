@@ -1,7 +1,7 @@
 name: Missing Tank
 description: Report a missing tank in the database.
 title: "[Missing Tank]: "
-labels: ["database-issue", "missing-tank"]
+labels: ["Missing Yank"]
 body:
   - type: textarea
     id: description
