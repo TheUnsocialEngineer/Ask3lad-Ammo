@@ -1,7 +1,7 @@
 name: Missing Ammo
 description: Report missing ammo for a tank.
 title: "[Missing Ammo]: "
-labels: ["database-issue", "missing-ammo"]
+labels: ["Missing Ammo"]
 body:
   - type: input
     id: tank_id
