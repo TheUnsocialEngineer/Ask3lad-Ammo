@@ -2,7 +2,7 @@
 name: Incorrect Weapon
 description: Report an incorrect weapon assigned to a tank.
 title: "[Incorrect Weapon]: "
-labels: ["database-issue", "incorrect-weapon"]
+labels: ["Incorrect Weapon"]
 body:
   - type: input
     id: tank_id
