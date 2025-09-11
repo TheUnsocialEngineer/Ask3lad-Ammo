@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links: []
+issue_templates:
+  - name: Incorrect Weapon
+    description: Report an incorrect weapon assigned to a tank.
+    labels: ["database-issue", "incorrect-weapon"]
+    file: incorrect-weapon.yml
+
+  - name: Missing Tank
+    description: Report a missing tank in the database.
+    labels: ["database-issue", "missing-tank"]
+    file: missing-tank.yml
+
+  - name: Missing Ammo
+    description: Report missing ammo for a tank.
+    labels: ["database-issue", "missing-ammo"]
+    file: missing-ammo.yml
