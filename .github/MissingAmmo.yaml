@@ -1,0 +1,24 @@
+name: Missing Ammo
+description: Report missing ammo for a tank.
+title: "[Missing Ammo]: "
+labels: ["database-issue", "missing-ammo"]
+body:
+  - type: input
+    id: tank_id
+    attributes:
+      label: Tank ID
+      description: |
+        Please provide the Tank ID.  
+        You can find the Tank ID by opening `Tank_DB.json`, locating the tank entry, and copying the `"id"` field or using warthunder wiki.
+      placeholder: e.g. ussr_t_26_1940
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description (optional)
+      description: Provide any extra details about the missing ammo.
+      placeholder: e.g. "APHE round not listed for the ussr_t_26_1940."
+    validations:
+      required: false
