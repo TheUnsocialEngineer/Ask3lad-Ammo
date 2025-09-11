@@ -1,0 +1,13 @@
+name: Missing Tank
+description: Report a missing tank in the database.
+title: "[Missing Tank]: "
+labels: ["database-issue", "missing-tank"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Tank Details
+      description: Provide ID missing tank this can be found in TankDB.json or warthunder wiki.
+      placeholder: e.g. "ussr_t_26_1940"
+    validations:
+      required: true
