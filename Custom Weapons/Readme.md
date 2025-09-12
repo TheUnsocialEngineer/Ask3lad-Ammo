@@ -53,4 +53,6 @@ RearmPlayer{
 
     else_actions{}
   }
-``` so that ```time:r=1``` = 0
+``` 
+so that 
+```time:r=0```
