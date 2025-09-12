@@ -7,7 +7,7 @@ A custom **War Thunder** test drive environment with a GUI for selecting vehicle
 ## 🚀 How to Install the Test Drive
 
 1. **Download the Latest Release**  
-   👉 [Download Here]([insert release url here](https://github.com/TheUnsocialEngineer/Ask3lad-Ammo/releases/download/v1.1-official/Ask3lad.Test.Drive.GUI.v1.1.Live.Build.zip))
+   👉 [Download Here](https://github.com/TheUnsocialEngineer/Ask3lad-Ammo/releases/download/v1.1-official/Ask3lad.Test.Drive.GUI.v1.1.Live.Build.zip)
 
 2. **Unzip the Latest Release**  
    Extract the files to a location of your choice.
