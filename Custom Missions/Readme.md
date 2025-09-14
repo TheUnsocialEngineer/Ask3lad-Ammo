@@ -16,4 +16,6 @@
    - **Dev Server**:  
      Navigate to the directory where you installed the Dev server.
      
-4. Drag the contents into the UserMissions folder in the WarThunder Directory
+4. Drag the contents into the UserMissions folder in the WarThunder Directory (the file will need to be renamed to ask3lad_testdrive.blk)
+
+6. to change reload speed change line 353 to ```time:r=1``` for one second reload or ```time:r=0``` for rapid fire
