@@ -7,12 +7,13 @@ A custom **War Thunder** test drive environment with a GUI for selecting vehicle
 ## 🚀 How to Install the Test Drive
 
 1. **Download the Latest Release**  
-   👉 [Download Here](https://github.com/TheUnsocialEngineer/Ask3lad-Ammo/releases/download/v1.1-official/Ask3lad.Test.Drive.GUI.v1.1.Live.Build.zip)
+   👉 [Download Here](https://cdn.discordapp.com/attachments/1332631622758957078/1365595627085500489/Ask3lad_Test_Drive_GUI_v1.1_Live_Build.zip?ex=68ce5c89&is=68cd0b09&hm=67196f1141bb197fe0ed99392d17d87c4dd15abc96bd46b3d1f571e6da36844b&)
 
-2. **Unzip the Latest Release**  
+
+3. **Unzip the Latest Release**  
    Extract the files to a location of your choice.
 
-3. **Locate Your War Thunder Directory**  
+4. **Locate Your War Thunder Directory**  
    You can find it in one of the following ways:
    - **Steam**:  
      `Steam -> War Thunder (Right Click) -> Manage -> Browse Local Files`
@@ -25,7 +26,7 @@ A custom **War Thunder** test drive environment with a GUI for selecting vehicle
    - **Dev Server**:  
      Navigate to the directory where you installed the Dev server.
 
-4. **Copy Test Drive Files**  
+5. **Copy Test Drive Files**  
    - Open the folder:  
      ```
      Drag Files Into WT
@@ -35,7 +36,7 @@ A custom **War Thunder** test drive environment with a GUI for selecting vehicle
      - `UserMissions`  
    - Paste them into your **War Thunder Directory**.
 
-5. ✅ Done!  
+6. ✅ Done!  
    You can now access the test drive in-game via:  
    **Hangar > UserMissions > Ask3lad > Ask3lad - Test Drive 3.0**
 
