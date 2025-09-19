@@ -1,4 +1,4 @@
-1. Download The lastest Custom Missions Release from [Download Here](https://github.com/TheUnsocialEngineer/Ask3lad-Ammo/releases/download/v1-missions/ask3lad_testdrive_missions.zip)
+1. Download The lastest Custom Missions Release from [Download Here](https://cdn.discordapp.com/attachments/1251597115453607973/1418622465176895529/ask3lad_testdrive_missions.zip?ex=68cecaa0&is=68cd7920&hm=91db13a51272184a94a7c3b94468a8016f14c50d124af71585cf283bd3fc6fe1&)
 - This currently only contains unlimited ammo/rapid fire
 
 2. Unzip Files
