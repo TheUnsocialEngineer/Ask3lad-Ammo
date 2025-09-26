@@ -26,6 +26,8 @@ A custom **War Thunder** test drive environment with a GUI for selecting vehicle
    - **Dev Server**:  
      Navigate to the directory where you installed the Dev server.
 
+4. Drag the Ask3lad_testdrive.blk from the usermissionm folder from the download file into your warthunder ```usermissions``` folder and replace the one already there
+
 5. ✅ Done!  
    You can now access the test drive in-game via:  
    **Hangar > UserMissions > Ask3lad > Ask3lad - Test Drive 3.0**
@@ -43,8 +45,10 @@ A custom **War Thunder** test drive environment with a GUI for selecting vehicle
 - ⚠️ Do not move or rename this folder.
 
 4. In the GUI:  
-- Select the vehicle you want to test drive.  
+- Select the vehicle you want to test drive.
+-  To toggle infinite ammo or rapid fire click one of the toggles
 - Press **Apply**.
+
 
 ---
 
