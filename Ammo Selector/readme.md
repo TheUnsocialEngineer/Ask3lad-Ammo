@@ -26,7 +26,7 @@ A custom **War Thunder** test drive environment with a GUI for selecting vehicle
    - **Dev Server**:  
      Navigate to the directory where you installed the Dev server.
 
-4. Drag the Ask3lad_testdrive.blk from the usermissionm folder from the download file into your warthunder ```usermissions``` folder and replace the one already there
+4. Drag the Ask3lad_testdrive.blk from the usermission folder from the download file into your warthunder ```usermissions``` folder and replace the one already there
 
 5. ✅ Done!  
    You can now access the test drive in-game via:  
