@@ -1,58 +1,77 @@
-
 # Ask3lad Test Drive 3.0
 
-A custom **War Thunder** test drive environment with a GUI for selecting vehicles.  
+A custom **War Thunder** test-drive environment featuring a full GUI for
+vehicle selection, environment control, and enemy customization.
 
----
+------------------------------------------------------------------------
 
-## 🚀 How to Install the Test Drive
+## 🚀 Installation (Standard Method)
 
-1. **Download the Latest Release**  
-   👉 [Download Here](https://github.com/TheUnsocialEngineer/Ask3lad-Ammo/releases/latest)
+1.  Launch **Ammo Selector 3.0.exe**
 
-2. **Unzip the Latest Release**  
-   Extract the files to a location of your choice.
+2.  Click **Locate War Thunder**, then select your game directory:
 
-3. **Locate Your War Thunder Directory**  
-   You can find it in one of the following ways:
-   - **Steam**:  
-     `Steam -> War Thunder (Right Click) -> Manage -> Browse Local Files`
-   - **WT Client**:  
-     Default location is:  
-     ```
-     C:\Users\%username%\AppData\Local\WarThunder
-     ```
-     (Paste this path directly into Explorer)
-   - **Dev Server**:  
-     Navigate to the directory where you installed the Dev server.
+### Steam
 
-4. Drag the Ask3lad_testdrive.blk from the usermission folder from the download file into your warthunder ```usermissions``` folder and replace the one already there
+Steam → War Thunder (Right-click) → Manage → Browse Local Files
 
-5. ✅ Done!  
-   You can now access the test drive in-game via:  
-   **Hangar > UserMissions > Ask3lad > Ask3lad - Test Drive 3.0**
+### Launcher Version
 
----
+    C:\Users\%username%\AppData\Local\WarThunder
 
-## 🔧 How to Change the Vehicle
+### Dev Server
 
-1. Open the GUI:  
+Select the folder where it is installed.
 
-2. Locate your **War Thunder Directory** when prompted (this is a button in the gui).
+3.  Copy **Ask3lad_testdrive.blk** from the downloaded `usermission`
+    folder into your War Thunder `usermissions` directory and replace
+    the existing file.
 
-3. If required, locate the **Assets** folder (this version supports automatic detection) :  
-- The `Assets` folder is included in the unzipped test drive files.  
-- ⚠️ Do not move or rename this folder.
+4.  Launch it in-game:
+    **Hangar → UserMissions → Ask3lad → Ask3lad -- Test Drive 3.0**
 
-4. In the GUI:  
-- Select the vehicle you want to test drive.
--  To toggle infinite ammo or rapid fire click one of the toggles
-- Press **Apply**.
+------------------------------------------------------------------------
 
+## 🚀 Installation via GitHub Releases
 
----
+1.  Download the latest release:
+    https://github.com/TheUnsocialEngineer/Ask3lad-Ammo/releases/latest
 
-## SCREENSHOTS
+2.  Unzip the files.
+
+3.  Locate your War Thunder directory (paths listed above).
+
+4.  Copy **Ask3lad_testdrive.blk** into your `usermissions` folder and
+    overwrite the existing one.
+
+5.  Start the mission in-game from the UserMissions menu.
+
+------------------------------------------------------------------------
+
+## 🔧 Features & Usage
+
+### Vehicle Selection
+
+Choose any supported vehicle directly from the GUI.
+
+### Mission Settings
+
+-   Infinite ammo
+-   Rapid fire
+-   Weather selection
+-   Time of day
+-   Environment presets
+
+### Enemy Unit Control (3.0 Update)
+
+-   Enemy images load automatically based on the current class
+-   Select a new enemy from the dropdown
+-   Click **Apply** to update instantly
+
+------------------------------------------------------------------------
+
+## 📸 Screenshots
+
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/db0af966-c1ca-4e38-9c46-5d61da13ffce" />
 
@@ -62,8 +81,12 @@ A custom **War Thunder** test drive environment with a GUI for selecting vehicle
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/06407e4b-cf78-4516-9efb-5303d0706c6b" />
 
----
+------------------------------------------------------------------------
+
 ## 🎮 Notes
-- Make sure You leave the test drive mission before or after applying vehicle.  
-- If using the Dev server, always double-check you’re modifying the correct directory.  
-- Keep the folder structure intact for the test drive to function properly.
+
+-   Leave the mission before or after applying new settings or
+    vehicles.
+-   Dev server users: double‑check that you're modifying the correct
+    directory.
+-   Keep the folder structure intact for full functionality.
