@@ -5,7 +5,7 @@ This repository contains everything you need to set up and use the **Ask3lad Tes
 Each folder in this repository contains **instructions** on how to **download and install** the various components of the test drive. Make sure to read the instructions carefully for each part before proceeding.  
 
 ---
-ASK3LAD DISCORD: https://discord.gg/bUQ5rUtC
+ASK3LAD DISCORD: https://discord.gg/QsfVUrUN
 
 AMMO SELECTOR SUPPORT DISCORD: https://discord.gg/bUQ5rUtC
 
