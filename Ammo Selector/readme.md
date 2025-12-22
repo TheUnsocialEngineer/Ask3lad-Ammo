@@ -4,6 +4,8 @@ A custom **War Thunder** test-drive environment featuring a full GUI for
 vehicle selection, environment control, and enemy customization.
 
 ------------------------------------------------------------------------
+AMMO SELECTOR SUPPORT DISCORD: https://discord.gg/bUQ5rUtC
+----------------------------
 
 ## 🚀 Installation (Standard Method)
 
