@@ -6,6 +6,8 @@ A custom **War Thunder** test drive environment with a GUI for selecting vehicle
 
 ## 🚀 How to Install the Test Drive
 
+[INSTALLATION VIDEO](https://youtu.be/P7uWkzcFNBU)
+
 1. **Download the Latest Release**  
    👉 [Download Here](https://cdn.discordapp.com/attachments/1332631622758957078/1365595627085500489/Ask3lad_Test_Drive_GUI_v1.1_Live_Build.zip?ex=68ce5c89&is=68cd0b09&hm=67196f1141bb197fe0ed99392d17d87c4dd15abc96bd46b3d1f571e6da36844b&)
 
