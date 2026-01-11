@@ -9,6 +9,8 @@ AMMO SELECTOR SUPPORT DISCORD: https://discord.gg/bUQ5rUtC
 
 ## 🚀 Installation (Standard Method)
 
+# [INSTALLATION VIDEO](https://youtu.be/P7uWkzcFNBU)
+
 1.  Launch **Ammo Selector 3.0.exe**
 
 2.  Click **Locate War Thunder**, then select your game directory:
