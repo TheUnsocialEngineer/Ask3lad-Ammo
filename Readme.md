@@ -1,3 +1,10 @@
+
+This Project is now ARCHIVED and will no longer be maintained
+
+I suggest using https://github.com/UKRAngler/Universal-Test-Lab/tree/main as this has way better features, finally adds plane/heli testdrives
+with loadouts etc
+
+
 # Ask3lad Test Drive Repository
 
 This repository contains everything you need to set up and use the **Ask3lad Test Drive** for War Thunder.  
