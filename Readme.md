@@ -1,8 +1,8 @@
 
 This Project is now ARCHIVED and will no longer be maintained
 
-I suggest using https://github.com/UKRAngler/Universal-Test-Lab/tree/main as this has way better features, finally adds plane/heli testdrives
-with loadouts etc
+I suggest using ASK3LAD DISCORD: https://discord.gg/QsfVUrUN for ground based testdrives or if you want to test planes/helis
+https://github.com/UKRAngler/Universal-Test-Lab/tree/main can finally do plane/heli testdrives with loadouts etc
 
 
 # Ask3lad Test Drive Repository
